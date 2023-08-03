@@ -1,0 +1,15 @@
+.mr {
+    margin-inline-end: 3px;
+}
+
+header {
+    background-color: black;
+    color: white;
+    height: 60px;
+    font-size: 32px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    font-style: italic;
+    text-indent: 20px;
+}
